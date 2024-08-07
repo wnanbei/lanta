@@ -1,0 +1,10 @@
+[package]
+name = "lanta"
+version = "0.1.0"
+edition = "2021"
+description = "Beautiful Lanta."
+repository = "https://github.com/wnanbei/lanta"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
