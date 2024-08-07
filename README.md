@@ -1,0 +1,2 @@
+# lanta
+Beautiful Lanta.
